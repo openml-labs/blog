@@ -22,6 +22,7 @@ This repository serves as the blog for the OpenML Labs. It uses Quarto to render
     ---
     ```
   - Add any images or other files that are needed for the post in the folder
+- Run `quarto preview` to see the post locally (IMPORTANT)
 - `git add . && git commit -m "Added post" && git push`
 - Create a pull request to the `main` branch
 - Once the PR is merged, the post will be live on the blog
